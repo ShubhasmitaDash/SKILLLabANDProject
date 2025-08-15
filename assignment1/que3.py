@@ -1,0 +1,8 @@
+print("*"*34)
+print("*College: Silicon", "\t"*2, "*")
+print("*Address: Silicon Hills", "\t"*1, "*")
+print("*Near DLF Building", "\t"*2, "*")
+print("*Patia", "\t"*4, "*")
+print("*Bhubaneswar", "\t"*3, "*")
+print("*751024", "\t"*3, "*")
+print("*"*34)
