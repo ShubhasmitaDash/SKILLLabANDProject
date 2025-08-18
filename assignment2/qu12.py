@@ -11,4 +11,4 @@ elif(avg>=70):
 elif(avg>=60):
     print("Grade D")
 else:
-    print("Grade E")
+    print("Grade F")
