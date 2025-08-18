@@ -1,4 +1,4 @@
-#wap to print prime numbers between agiven range
+#wap to print prime numbers between a given range
 lower=int(input("enter the lower range:"))
 upper=int(input("enter the upper range:"))
 for num in range(lower,upper+1):
