@@ -1,0 +1,5 @@
+tuple=(1,2,3,4,5,6,7,8,9,10)
+a=len(tuple)
+print(tuple[0])
+print(tuple[int(a/2)])
+print(tuple[-1])

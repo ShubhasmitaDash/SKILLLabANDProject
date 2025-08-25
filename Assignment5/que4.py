@@ -1,0 +1,5 @@
+tuple=(10,20,30,40,50,60,70)
+print(tuple[0:3])
+print(tuple[-1:-4])
+a=len(tuple)
+print(tuple[0:a:2])
